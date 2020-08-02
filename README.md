@@ -1,2 +1,2 @@
-# swiftBasic
+# SwiftBasic
 Basic of swift
